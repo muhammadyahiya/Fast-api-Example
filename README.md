@@ -1,4 +1,4 @@
-# Fast-api-Example Project Using PostMan
+# Fast-api Project Using PostMan
 
 Welcome to the FastAPI  Course ! This guide will help you set up and build a simple FastAPI application, useful for real-time machine learning projects.
 
