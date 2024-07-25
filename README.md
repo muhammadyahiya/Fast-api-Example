@@ -1,8 +1,6 @@
-# Fast-api-Example
+# Fast-api-Example Project Using PostMan
 
-# FastAPI Crash Course
-
-Welcome to the FastAPI Crash Course ! This guide will help you set up and build a simple FastAPI application, useful for real-time machine learning projects.
+Welcome to the FastAPI  Course ! This guide will help you set up and build a simple FastAPI application, useful for real-time machine learning projects.
 
 ## Table of Contents
 
