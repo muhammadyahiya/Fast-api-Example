@@ -1,8 +1,8 @@
 # Fast-api-Example
 
-# FastAPI Crash Course for MLOps
+# FastAPI Crash Course
 
-Welcome to the FastAPI Crash Course for MLOps! This guide will help you set up and build a simple FastAPI application, useful for real-time machine learning projects.
+Welcome to the FastAPI Crash Course ! This guide will help you set up and build a simple FastAPI application, useful for real-time machine learning projects.
 
 ## Table of Contents
 
