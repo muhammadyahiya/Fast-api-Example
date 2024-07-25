@@ -132,4 +132,4 @@ For further details, refer to the [FastAPI documentation](https://fastapi.tiango
 
 ---
 
-Happy coding! Enjoy building your FastAPI applications for MLOps projects.
+Happy coding! Enjoy building your FastAPI applications.
